@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm **foundedbycj** (Chiranjev Borgohain)
+# Hey there! 👋 I'm **foundedbycj** 
 
 Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthusiast building products that matter.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthus
 
 ## 🚀 What I Do
 
-<div align="center">
+
 
 **Co-Founder** @ [Clyrex.in](https://clyrex.in)  
 **Solo Founder** @ [Optimalist.in](https://optimalist.in)
