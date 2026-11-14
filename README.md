@@ -13,7 +13,17 @@ Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthus
 
 </div>
 
+
 ---
+<div>
+## What i Love 
+**Anime** : Bleach and Black clover my fav :)
+**Calisthenics** : Learning Handstands
+**Running** : With friends
+**Art** : Especially drawing anime character
+
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -30,11 +40,11 @@ Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthus
 
 ---
 
-## 🎯 Specialization
+## 🎯 What I'm Learning
 
-🤖 **Agentic AI** - Building intelligent autonomous agents  
-🧠 **Machine Learning** - Data-driven solutions and predictive models  
-⚙️ **Full-Stack Development** - End-to-end product development
+🤖 **Agentic AI** - New to it , but going on :)  
+🧠 **Machine Learning** - Love that , mostly for my upcoming research
+⚙️ **Full-Stack Development** - Hope my SaaS pays off 
 
 ---
 
@@ -42,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthus
 
 I'm always open to exciting collaborations, partnerships, and new ideas! Whether you're building something cool or need help with AI/ML projects, let's chat!
 
-[![Open for Collaborations](https://img.shields.io/badge/💬%20Open%20for%20Collaborations-Let's%20Build%20Together-brightgreen?style=for-the-badge)](mailto:hello@foundedbycj.com)
+[![Open for Collaborations](cjsthetics@gmail.com)
 
 ---
 
@@ -50,7 +60,7 @@ I'm always open to exciting collaborations, partnerships, and new ideas! Whether
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/foundedbycj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/foundedcj)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/foundedbycj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranjivborgohain)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@foundedbycj)
@@ -62,8 +72,7 @@ I'm always open to exciting collaborations, partnerships, and new ideas! Whether
 <div align="center">
 
 ### ⚡ Fun Fact
-*Building the future, one AI agent at a time!* 🚀
-
+* im learnin everyday 
 </div>
 
 ---
