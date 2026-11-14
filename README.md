@@ -1,4 +1,10 @@
-# Hey there! 👋 I'm **foundedbycj** 
+# Hey there! 👋 I'm **foundedbycj**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B61FF&center=true&vCenter=true&width=435&lines=Founder+%7C+Builder+%7C+AI+Enthusiast;Building+products+that+matter" alt="Typing SVG" />
+
+</div>
 
 Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthusiast building products that matter.
 
@@ -6,24 +12,19 @@ Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthus
 
 ## 🚀 What I Do
 
-
-
-**Co-Founder** @ [Clyrex.in](https://clyrex.in)  
-**Solo Founder** @ [Optimalist.in](https://optimalist.in)
-
-</div>
-
+- **Co-Founder** @ [Clyrex.in](https://clyrex.in)
+- **Solo Founder** @ [Optimalist.in](https://optimalist.in)
 
 ---
-<div>
-## What i Love 
-**Anime** : Bleach and Black clover my fav :)
-**Calisthenics** : Learning Handstands
-**Running** : With friends
-**Art** : Especially drawing anime character
 
+## 💙 What I Love
 
-</div>
+- 🎌 **Anime:** Bleach and Black Clover are my favorites
+- 🤸 **Calisthenics:** learning handstands
+- 🏃 **Running:** with friends
+- 🎨 **Art:** especially drawing anime characters
+
+---
 
 ## 💻 Tech Stack
 
@@ -42,17 +43,21 @@ Welcome to my GitHub profile! I'm a passionate founder, developer, and AI enthus
 
 ## 🎯 What I'm Learning
 
-🤖 **Agentic AI** - New to it , but going on :)  
-🧠 **Machine Learning** - Love that , mostly for my upcoming research
-⚙️ **Full-Stack Development** - Hope my SaaS pays off 
+- 🤖 **Agentic AI** — new to it, but diving in and loving the process
+- 🧠 **Machine Learning** — especially for my upcoming research
+- ⚙️ **Full-Stack Development** — building toward a SaaS that actually pays off
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to exciting collaborations, partnerships, and new ideas! Whether you're building something cool or need help with AI/ML projects, let's chat!
+I'm always open to exciting collaborations, partnerships, and new ideas. Whether you're building something cool or need help with AI/ML projects, let's chat.
 
-[![Open for Collaborations](cjsthetics@gmail.com)
+<div align="center">
+
+[![Open for Collaborations](https://img.shields.io/badge/Collab-Open%20for%20work-5B6CFF?style=for-the-badge)](mailto:cjsthetics@gmail.com)
+
+</div>
 
 ---
 
@@ -64,6 +69,7 @@ I'm always open to exciting collaborations, partnerships, and new ideas! Whether
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/foundedbycj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranjivborgohain)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@foundedbycj)
+[![Email](https://img.shields.io/badge/Email-cjsthetics%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjsthetics@gmail.com)
 
 </div>
 
@@ -72,7 +78,9 @@ I'm always open to exciting collaborations, partnerships, and new ideas! Whether
 <div align="center">
 
 ### ⚡ Fun Fact
-* im learnin everyday 
+
+I’m learning every single day.
+
 </div>
 
 ---
